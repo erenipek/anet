@@ -1,0 +1,8 @@
+venv
+.pyc
+.Ds_Store
+/static
+/statics
+/stok
+/templates
+
